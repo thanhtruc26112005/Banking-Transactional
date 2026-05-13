@@ -1,9 +1,12 @@
 # Transaction Analytics Dashboard
 
 **A comprehensive data analytics project leveraging SQL Server and Power BI to analyze transaction data, uncover behavioral patterns, and drive revenue insights.**
-
-![Power BI Dashboard Preview](https://via.placeholder.com/800x400?text=Power+BI+Dashboard+Preview)  
-*(Replace with actual dashboard screenshot in your repo)*
+Dashboard 1
+<img width="1561" height="882" alt="image" src="https://github.com/user-attachments/assets/26f7940d-9ac8-4467-8f67-0c2ae884ccbc" />
+Dashboard 2
+<img width="1562" height="870" alt="image" src="https://github.com/user-attachments/assets/b0c65b86-6e68-4bfb-87c3-f55c4f3e716c" />
+Dashboard 3
+<img width="1567" height="876" alt="image" src="https://github.com/user-attachments/assets/78dc311c-5f63-4e37-9bc6-edbe44e0952e" />
 
 ## Overview
 
