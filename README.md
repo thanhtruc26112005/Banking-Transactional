@@ -32,7 +32,7 @@ Key deliverables:
 ## Tools Used
 
 | Tool              | Purpose                              |
-|-------------------|--------------------------------------| |
+|-------------------|--------------------------------------| 
 | Power BI Desktop  | Dashboard development & visualization|
 | Microsoft PowerPoint | Stakeholder presentation          |
 | Excel / Word      | Supporting report                    |
@@ -62,8 +62,8 @@ Key deliverables:
 ## Key Insights
 
 - **Overview**: Monthly transaction volume grew by X% YoY with peak activity in Q4.
-- **Transaction Behavior**: Mobile channel dominates (XX% of volume). High-value customers show distinct patterns.
-- **Revenue & Fee**: Fee optimization opportunity identified — reducing certain fees could increase volume by estimated Y%.
+- **Fee Analyst**: Mobile channel dominates (XX% of volume). High-value customers show distinct patterns.
+- **Customer Behavior and Multi Usage**: Fee optimization opportunity identified — reducing certain fees could increase volume by estimated Y%.
 - Identified top-performing categories and underutilized customer segments.
 
 *(Specific insights will be listed in the full report and dashboard.)*
@@ -94,7 +94,6 @@ Key deliverables:
 ## Results & Deliverables
 
 - Fully interactive Power BI `.pbix` file
-- SQL script folder with all analytical queries
 - Comprehensive PDF report (20+ pages)
 - Executive PowerPoint presentation (15 slides)
 - Clear documentation of methodology and findings
@@ -106,7 +105,6 @@ Key deliverables:
 ## How to Run / Reproduce
 
 ### Prerequisites
-- SQL Server access (or restored backup)
 - Power BI Desktop (latest version)
 - Microsoft Office (for report & PPT)
 
