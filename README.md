@@ -1,6 +1,7 @@
 # Transaction Analytics Dashboard
 
 **A comprehensive data analytics project leveraging SQL Server and Power BI to analyze transaction data, uncover behavioral patterns, and drive revenue insights.**
+
 Dashboard 1 - Overview
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/e6e9cf86-ed1f-4f69-8794-367e08f14d5b" />
 Dashboard 2 - Fee Analysis
