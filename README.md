@@ -94,7 +94,7 @@ Key deliverables:
 ## Results & Deliverables
 
 - Fully interactive Power BI `.pbix` file
-- Comprehensive PDF report (20+ pages)
+- Comprehensive report (20+ pages)
 - Executive PowerPoint presentation (15 slides)
 - Clear documentation of methodology and findings
 
