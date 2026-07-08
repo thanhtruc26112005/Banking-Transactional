@@ -1,20 +1,19 @@
 # Transaction Analytics Dashboard
 
 **A comprehensive data analytics project leveraging SQL Server and Power BI to analyze transaction data, uncover behavioral patterns, and drive revenue insights.**
-Dashboard 1
-<img width="1561" height="882" alt="image" src="https://github.com/user-attachments/assets/26f7940d-9ac8-4467-8f67-0c2ae884ccbc" />
-Dashboard 2
-<img width="1562" height="870" alt="image" src="https://github.com/user-attachments/assets/b0c65b86-6e68-4bfb-87c3-f55c4f3e716c" />
-Dashboard 3
-<img width="1567" height="876" alt="image" src="https://github.com/user-attachments/assets/78dc311c-5f63-4e37-9bc6-edbe44e0952e" />
+Dashboard 1 - Overview
+<img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/e6e9cf86-ed1f-4f69-8794-367e08f14d5b" />
+Dashboard 2 - Fee Analysis
+<img width="1055" height="599" alt="image" src="https://github.com/user-attachments/assets/1309b59d-7d57-45c5-91ce-26dce41dc1ad" />
+Dashboard 3 - Customer Behavior and Multi Usage
+<img width="1055" height="599" alt="image" src="https://github.com/user-attachments/assets/c457a19c-e919-408d-ae52-66dc9fcb7e1f" />
 
 ## Overview
 
 This project demonstrates end-to-end data analytics capabilities by performing deep-dive analysis on transaction data using SQL Server and building an interactive Power BI dashboard. The goal was to transform raw transaction records into actionable business insights focused on overview metrics, customer transaction behavior, and revenue & fee performance.
 
 Key deliverables:
-- Advanced SQL queries for data exploration and preparation
-- Interactive Power BI dashboard with **3 pages**: Overview, Transaction Behavior, and Revenue & Fee
+- Interactive Power BI dashboard with **3 pages**: Overview, Fee Analysis, and Customer Behavior and Multi Usage
 - Professional PDF report and PowerPoint presentation for stakeholders
 
 ---
@@ -34,8 +33,7 @@ Key deliverables:
 ## Tools Used
 
 | Tool              | Purpose                              |
-|-------------------|--------------------------------------|
-| SQL Server        | Data querying, cleaning & analysis   |
+|-------------------|--------------------------------------| |
 | Power BI Desktop  | Dashboard development & visualization|
 | Microsoft PowerPoint | Stakeholder presentation          |
 | Excel / Word      | Supporting report                    |
@@ -45,10 +43,8 @@ Key deliverables:
 ## Project Steps
 
 1. **Data Exploration & Deep Dive**
-   - Connected to SQL Server
-   - Wrote complex SQL queries (CTE, Window functions, Aggregations, Joins)
-   - Analyzed transaction volume, trends, customer segmentation, and fee structures
-
+   - Using Python to exploredatory the data
+     
 2. **Data Modeling in Power BI**
    - Imported and transformed data using Power Query
    - Created a star schema data model with fact and dimension tables
