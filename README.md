@@ -9,11 +9,11 @@ Dashboard 3 - Customer Behavior and Multi Usage
 
 ## Overview
 
-This project demonstrates end-to-end data analytics capabilities by performing deep-dive analysis on transaction data using SQL Server and building an interactive Power BI dashboard. The goal was to transform raw transaction records into actionable business insights focused on overview metrics, customer transaction behavior, and revenue & fee performance.
+This project demonstrates end-to-end data analytics capabilities by performing deep-dive analysis on transaction data using python and building an interactive Power BI dashboard. The goal was to transform raw transaction records into actionable business insights focused on overview metrics, customer transaction behavior, and revenue & fee performance.
 
 Key deliverables:
 - Interactive Power BI dashboard with **3 pages**: Overview, Fee Analysis, and Customer Behavior and Multi Usage
-- Professional PDF report and PowerPoint presentation for stakeholders
+- Professional report and PowerPoint presentation for stakeholders
 
 ---
 
@@ -42,7 +42,7 @@ Key deliverables:
 ## Project Steps
 
 1. **Data Exploration & Deep Dive**
-   - Using Python to exploredatory the data
+   - Using Python to explore the data
      
 2. **Data Modeling in Power BI**
    - Imported and transformed data using Power Query
@@ -77,12 +77,12 @@ Key deliverables:
 - Trend charts (Monthly/Quarterly)
 - Geographic or Channel distribution
 
-### 2. Transaction Behavior
+### 2. Fee Analyst
 - Customer segmentation
 - Behavioral patterns by time, channel, and type
 - Cohort analysis and retention metrics
 
-### 3. Revenue and Fee
+### 3. Customer Behavior and Multi Usage
 - Revenue breakdown and trends
 - Fee analysis and impact
 - Profitability by segment/category
